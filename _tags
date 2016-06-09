@@ -1,0 +1,2 @@
+true: rectypes, thread, package(str), package(unix), package(threads)
+<lib>: include
